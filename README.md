@@ -1,5 +1,8 @@
+Hi I'm Aiswarya 
+# AI Robotic Engineer 
 ## Hi there 👋
-
+* fist line
+* Second **bold**
 <!--
 **aiswaryapoosari/aiswaryapoosari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
